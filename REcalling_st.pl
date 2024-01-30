@@ -3,7 +3,7 @@ use strict;
 use Getopt::Long;
 
 # A-to-I RNA editing calling based on BAM created using HISAT2
-# Jinrong Huang created it for A-to-I RNA editing
+# Jinrong Huang created it for A-to-I RNA editing of bulk RNA-seq data
 # Zeluan Li revised it to make it work in stereo-seq data
 # Nov 2022
 
